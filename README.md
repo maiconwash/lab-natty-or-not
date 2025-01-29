@@ -24,18 +24,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ## 📒 Descrição
 Breve descrição do seu projeto
+# Título do Projeto Extremamente Aesthetic ;)
+
+## 📒 Descrição
+Breve descrição do seu projeto
+Criei um eBook que segue o ponto de vista do alienígena, explorando sua percepção do contato com os humanos e as dificuldades que enfrentou para sobreviver nesse novo ambiente. Ele tenta expressar a curiosidade, o medo e a incompreensão entre os dois mundos, criando uma narrativa mais filosófica e introspectiva.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chatgpt4
+ebookmaker
+leonardo.ai
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criei a história no chatgpt, as imagens no leonardo.ai e a formatação do ebook no ebookmarker. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+ o meu novo eBook, que traz conteúdos exclusivos, ideias inovadoras e insights valiosos. Seja simplesmente se divertir, tenho certeza de que você encontrará algo que vai despertar seu interesse.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
 ```
 
 ### Exemplos e Insigths
